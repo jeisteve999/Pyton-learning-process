@@ -23,8 +23,8 @@ A small modular program to calculate area and perimeter for circles and squares.
 
 | File Name                  | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| `First program1.py`       | A simple "Hello, my name is..." print exercise.                             |
-| `Assention_error.1.py`    | Test of assertion with a function that calculates the average.              |
+| `https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/First%20program1.py`| A simple "Hello, my name is..." print exercise.                             |
+| `python/Assemtion_error.1.py`| Test of assertion with a function that calculates the average.              |
 | `Project.2.py`            | Improved version of average calculation, including data type validation.    |
 | `exercise 3.py`           | Basic variable and constant printing.                                       |
 | `import math 1 py.py`     | Uses `math` module to calculate circle area and perimeter with assertions.  |
