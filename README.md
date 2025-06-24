@@ -13,8 +13,8 @@ It includes small projects and exercises that helped me practice and understand 
 ### 📂 [`geometry/`](https://github.com/jeisteve999/Pyton-learning-process/tree/main/python/geometry)
 A small modular program to calculate area and perimeter for circles and squares.
 
-- [`circle.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/geometry/circle.py): Functions to calculate area and perimeter of a circle.
-- [`square.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/geometry/square.py): Functions to calculate area and perimeter of a square.
+- [`circle.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/geometry/circle.py): Functions to calculate the area and perimeter of a circle.
+- [`square.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/geometry/square.py): Functions to calculate the area and perimeter of a square.
 - [`main.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/geometry/main.py): Imports the functions and prints the results using dictionaries.
 
 ---
@@ -24,11 +24,11 @@ A small modular program to calculate area and perimeter for circles and squares.
 | File Name                                                                 | Description                                                                 |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | [`First program1.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/First%20program1.py) | A simple "Hello, my name is..." print exercise.                             |
-| [`Assention_error.1.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/Assention_error.1.py) | Test of assertion with a function that calculates the average.              |
+| [`Assemtion_error.1.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/Assemtion_error.1.py) | Assertion test with a function that calculates the average.                |
 | [`Project.2.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/Project.2.py) | Improved version of average calculation, including data type validation.    |
 | [`exercise 3.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/exercise%203.py) | Basic variable and constant printing.                                       |
 | [`import math 1 py.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/import%20math%201%20py.py) | Uses `math` module to calculate circle area and perimeter with assertions.  |
-| [`person.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/person.py) | Example of object-oriented programming: Person and Employee classes.        |
+| [`person.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/person.py) | Example of object-oriented programming: `Person` and `Employee` classes.    |
 | [`excercise_turtle.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/excercise_turtle.py) | Creative visual drawing using `turtle` and `colorsys`.                      |
 | [`mono_pizzeria_project.py`](https://github.com/jeisteve999/Pyton-learning-process/blob/main/python/mono_pizzeria_project.py) | Console-based pizza order simulator with inputs, prices, and calculations.  |
 
